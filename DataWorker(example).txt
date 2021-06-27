@@ -1,0 +1,10 @@
+/* 
+   How to Use? exapmple: 
+  
+   var finder = new DataFinder()
+   var text="abc"
+   var result = finder.take(text, DataTypes);
+   var new_Text = finder.hide(text, DataTypes)
+   var old_Text = finder.back(new_Text, DataTypes)
+  
+   */
